@@ -9,4 +9,3 @@ fetch('https://icanhazdadjoke.com/slack')
     console.error('Error fetching joke:', error);
  });
 
- //https://hindi-jokes-api.onrender.com/jokes?api_key=17664cb30905a500d0250ea13f56
