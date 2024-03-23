@@ -1,0 +1,17 @@
+body {
+    width: 300px;
+    font-family: Arial, sans-serif;
+  }
+  
+  h1 {
+    color: #3B73AF;
+  }
+  
+  input {
+    width: 100%;
+    margin-bottom: 10px;
+  }
+  
+  button {
+    width: 100%;
+  }
